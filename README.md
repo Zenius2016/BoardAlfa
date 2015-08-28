@@ -82,4 +82,4 @@ CONGRATULATION!!!! YOU ARE READY TO CODE
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:     
 
 
-(P.S things maybe look different because of the operating system of your computer)     
+(P.S things maybe look different because of the operating system of your computer and Github, Atom and haskell are FREE!!!!!)     
