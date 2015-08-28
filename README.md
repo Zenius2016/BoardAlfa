@@ -1,12 +1,11 @@
 # BoardAlfa
-
 So far the official repo for board announcement & issue tracking related to ZeniusX2016 program  
 
 ## First assignment
 things you need to install
 1. [Github](https://desktop.github.com)
 2. [Haskell](https://www.haskell.org/downloads)
-2. [Atom](https://atom.io)
+3. [Atom](https://atom.io)
 
 ### Github for desktop
 Install Github here
@@ -35,10 +34,9 @@ Open atom, then find way to install packages
 List of things you need to install :
 1. ide-haskell
 2. language-haskell
-;; not necessary
-3. autocomplete-haskell
+3. autocomplete-haskell (not necessary)
 4. themes (if you want to colorize your atom)
-;; I use one dark for UI theme and atom dark for syntax theme
+P.S I use one dark for UI theme and atom dark for syntax theme
 
 ### Playing with all tools
 
@@ -49,7 +47,7 @@ In general you will do something like this
 [picture]
 
 2. Load and run the file in ghci/winghci
-[picture]   
+[picture]
 
 3. After finish, commit changes from your github and sync
 [picture]
