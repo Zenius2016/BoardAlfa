@@ -7,14 +7,30 @@ things you need to install
 2. [Haskell](https://www.haskell.org/downloads)
 3. [Atom](https://atom.io)
 
+[github-logo]: /images/first-assignment/github-logo.png "Logo Title Text 2"
+[haskell-logo]: /images/first-assignment/HaskellLogoStyPreview-1.png "Logo Title Text 2"
+[atom-logo]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[github-desktop]: /images/first-assignment/github-desktop.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+[]: /images/first-assignment/atom-editor-logo.png "Logo Title Text 2"
+
 ### Github for desktop
+![alt text][github-logo]
 Install Github here
 [github](https://desktop.github.com)
 then, try open github
-[picture]
+![alt text][github-desktop]
 find a way to make a repo and publish it
 
 ### Haskell
+![alt text][haskell-logo]
 Install haskell here
 [haskell](https://www.haskell.org/downloads)
 install **only** the haskell platform
@@ -28,6 +44,7 @@ osx
 [picture]
 
 ### Text editor, we recommend atom
+![alt text][atom-logo]
 Install atom here
 [atom](https://atom.io)
 Open atom, then find way to install packages
