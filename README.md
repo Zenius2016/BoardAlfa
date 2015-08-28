@@ -52,4 +52,11 @@ In general you will do something like this
 3. After finish, commit changes from your github and sync
 [picture]
 
+-------
+
+:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
+CONGRATULATION!!!! YOU HAVE FINISH YOUR FIRST ASSIGNMENT
+:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
+
+
 (P.S things maybe look different because of the operating system of your computer)
