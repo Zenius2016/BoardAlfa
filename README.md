@@ -1,5 +1,10 @@
 # BoardAlfa
-So far the official repo for board announcement & issue tracking related to ZeniusX2016 program  
+So far the official repo for board announcement & issue tracking related to ZeniusX2016 program
+
+##Rules        
+1. **USE ENGLISH EVERYWHERE**     
+2. If you want to ask something (error or bug in your code or installment) make issue     
+3. If you don't know about issue, find about github issue     
 
 ## Preparing This Things
 things you need to install     
