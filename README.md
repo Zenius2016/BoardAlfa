@@ -1,7 +1,7 @@
 # BoardAlfa
 So far the official repo for board announcement & issue tracking related to ZeniusX2016 program  
 
-## First assignment
+## Preparing This Things
 things you need to install     
 1. [Github](https://desktop.github.com)     
 2. [Haskell](https://www.haskell.org/downloads)     
@@ -18,18 +18,20 @@ things you need to install
 [terminal-edit]: /images/first-assignment/code-terminal.tiff "Logo Title Text 2"
 [github-edit]: /images/first-assignment/code-github.tiff "Logo Title Text 2"
 
+-------
+
 ### Github for desktop
 ![alt text][github-logo]     
-Install Github here     
-[github](https://desktop.github.com)     
-then, try open github     
+Install Github [here](https://desktop.github.com)     
+then, try open github      
 ![alt text][github-open]     
 find a way to make a repo and publish it     
 
+-------
+
 ### Haskell
 ![alt text][haskell-logo]     
-Install haskell here     
-[haskell](https://www.haskell.org/downloads)     
+Install haskell [here](https://www.haskell.org/downloads)     
 install **only** the haskell platform     
 run ghci(linux, osx)/winghci(windows)     
 
@@ -42,8 +44,7 @@ osx
 
 ### Text editor, we recommend atom     
 ![alt text][atom-logo]     
-Install atom here     
-[atom](https://atom.io)     
+Install atom [here](https://atom.io)     
 Open atom, then find way to install packages     
 ![alt text][atom-open]     
 List of things you need to install :     
@@ -52,6 +53,8 @@ List of things you need to install :
 3. autocomplete-haskell (not necessary)     
 4. themes (if you want to colorize your atom)     
 P.S I use one dark for UI theme and atom dark for syntax theme     
+
+-------
 
 ### Playing with all tools
 
@@ -70,7 +73,7 @@ In general you will do something like this
 -------
 
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:     
-CONGRATULATION!!!! YOU HAVE FINISH YOUR FIRST ASSIGNMENT     
+CONGRATULATION!!!! YOU ARE READY TO CODE     
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:     
 
 
