@@ -1,5 +1,12 @@
 #Reimplement Haskell function
 
+[haskell-wow]: ../images/first-assignment/haskell-wow.jpg "Logo Title Text 2"
+
+##Prerequisite
+
+1. Install Haskell, Atom, Github
+2. Watch sabda tutorial video
+
 ##Rules!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 1. **Don't use google to find how a haskell function works**
@@ -44,6 +51,8 @@ reimplement subsequences, permutations
 
 ## FINISH ?
 
-:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
-CONGRATULATION!!!! YOU ARE A COOL PROGRAMMER
-:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
+:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
+CONGRATULATION!!!! YOU ARE A HASKELL PROGRAMMER     
+![alt text][haskell-wow]        
+:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
+P.S I will use alot of :tada: emoticon 
