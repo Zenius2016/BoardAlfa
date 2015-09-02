@@ -5,6 +5,7 @@
 1. **Don't use google to find how a haskell function works**
 2. for 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), partern matching
 3. for 1.b you can use function that you have reimplement in 1.a to reimplement 1.b
+4. DO NOT SEE OTHERS BOCAH WORKS, OR YOU WILL DIE AND BECOME DUMB DUMB DUMB
 
 ## Help or Instruction
 
