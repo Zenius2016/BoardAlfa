@@ -59,6 +59,11 @@ List of things you need to install :
 4. themes (if you want to colorize your atom)     
 P.S I use one dark for UI theme and atom dark for syntax theme     
 
+Atom alternative
+In case you can't install atom use heat
+[heat](http://www.cs.kent.ac.uk/projects/heat/)
+read heat documentation for how to use heat
+
 -------
 
 ### Playing with all tools
