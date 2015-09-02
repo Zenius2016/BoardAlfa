@@ -1,6 +1,8 @@
 #Reimplement Haskell function
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
 [haskell-wow]: ../images/first-assignment/haskell-wow.jpg "Logo Title Text 2"
+[suck]: ../images/first-assignment/suck.jpg "Logo Title Text 2"
+
 
 ##Prerequisite
 
@@ -10,9 +12,11 @@
 ##Rules!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 1. **Don't use google to find how a haskell function works**
-2. for 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), partern matching
-3. for 1.b you can use function that you have reimplement in 1.a to reimplement 1.b
+2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), partern matching
+3. For 1.b you can use function that you have reimplement in 1.a to reimplement 1.b
 4. DO NOT SEE OTHERS BOCAH WORKS, OR YOU WILL DIE || BECOME DUMB DUMB DUMB
+5. If you feel that you are to dumb dumb to do this assignment, don't worry     
+![alt text][suck]  
 
 ## Help or Instruction
 
