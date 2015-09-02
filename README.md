@@ -1,6 +1,13 @@
 # BoardAlfa
 So far the official repo for board announcement & issue tracking related to ZeniusX2016 program
 
+## Assignment     
+1. Installing things     
+2. .....     
+3. .....     
+4. .....     
+
+
 ##Rules        
 1. **USE ENGLISH EVERYWHERE**     
 2. If you want to ask something (error or bug in your code or installment) make issue     
