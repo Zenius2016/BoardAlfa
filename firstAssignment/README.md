@@ -1,5 +1,5 @@
 #Reimplement Haskell function
-
+:tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
 [haskell-wow]: ../images/first-assignment/haskell-wow.jpg "Logo Title Text 2"
 
 ##Prerequisite
