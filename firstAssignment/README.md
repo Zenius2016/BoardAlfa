@@ -59,4 +59,4 @@ reimplement subsequences, permutations
 CONGRATULATION!!!! YOU ARE A HASKELL PROGRAMMER     
 ![alt text][haskell-wow]        
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
-P.S I will use alot of :tada: emoticon 
+P.S I will use a lot of :tada: emoticon 
