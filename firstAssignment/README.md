@@ -13,26 +13,26 @@
 
 1. **Don't use google to find how a haskell function works**
 2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), partern matching
-3. For 1.b you can use function that you have reimplement in 1.a to reimplement 1.b
+3. For 1.b you can use function that you have reimplemented in 1.a to reimplement 1.b
 4. DO NOT SEE OTHERS BOCAH WORKS, OR YOU WILL DIE || BECOME DUMB DUMB DUMB
 5. If you feel that you are to dumb dumb to do this assignment, don't worry     
-![alt text][suck]  
+![you-suck!!!!][suck]  
 
 ## Help or Instruction
 
-1. don't forget to add "import Data.List" to your *.hs file, or ghci/winghci (we recommend to put it in *.hs file)
+1. Don't forget to add "import Data.List" to your *.hs file, or ghci/winghci (we recommend to put it in *.hs file)
 
-2. for check function type use ``:t``
+2. To check function type use ``:t``
 
-3. for showing runtime and type system evertime you run something
+3. To show runtime and type system everytime you run something
 ``:set +s``
 ``:set +t``
 
-4. Use template.hs in firstAssignment, to help tutors review your code
+4. Use template.hs in firstAssignment to help tutors review your code
 
 5. We do not sort the function by difficulties. If you find a hard function to reimplement, **skip it**.
 
-## 1.a List of function to reimplement
+## 1.a List of Function to Reimplement
 
 null, take, drop, fst, snd, map, filter, delete, deleteAll, foldl, foldl1, zip, zipWith, nth,
 sort, scanl, scanl1, elem, notElem, head, length, reverse, last, tail, init, max, min, concat, intersperse, intercalate, and, or, zip3, sum, product, words, lines, unlines, unwords, takeWhile, dropWhile, concatMap, all, any, insert, zipWith3
@@ -41,7 +41,7 @@ sort, scanl, scanl1, elem, notElem, head, length, reverse, last, tail, init, max
 
 **USE TEMPLATE.hs**
 
-## 1.b List of function to reimplement
+## 1.b List of Function to Reimplement
 
 you can use your other function from 1.a to solve this :
 
