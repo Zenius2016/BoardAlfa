@@ -3,7 +3,11 @@
 Zenius-X class repo for computer-based math & science learning using Haskell.  
 
 So far the official repo for board announcement & issue tracking related to ZeniusX2016 program
-
+## Intoduction to haskell for bocah-bocah
+watch youtube video     
+1. [old-video](https://www.youtube.com/watch?v=RMRis91D7uQ&list=PL_P06naDb8bIjZyGbK0kMLxmtzQLYbFF4) (for part A alternative)     
+2. [2 September 2015 part A](https://www.youtube.com/watch?v=KPR15yaSnhE&list=PL_P06naDb8bIGp4BwzG2rtqJlVpem64Eq) (error video, still watchable though)     
+3. [2 September 2015 part B](https://youtu.be/RcRTreGowuc?list=PL_P06naDb8bLMEGenLPRcRaufmredmChi) (part B..... duhhhh)     
 ## Assignment     
 1. Installing things     
 2. [reimplement haskell function](https://github.com/Zenius2016/BoardAlfa/issues/7)     
