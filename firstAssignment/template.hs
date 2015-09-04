@@ -63,10 +63,6 @@ nth' x = x
 
 --pembatas
 
-sort' x = x
-
---pembatas
-
 scanl' x = x
 
 --pembatas
