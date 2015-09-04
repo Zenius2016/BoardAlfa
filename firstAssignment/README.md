@@ -37,7 +37,7 @@
 null, take, drop, fst, snd, map, filter, delete, deleteAll, foldl, foldl1, zip, zipWith, nth,
 sort, scanl, scanl1, elem, notElem, head, length, reverse, last, tail, init, max, min, concat, intersperse, intercalate, and, or, zip3, sum, product, words, lines, unlines, unwords, takeWhile, dropWhile, concatMap, all, any, insert, zipWith3
 
--- nth is (!!)
+-- nth is (!!)     
 -- there is no deleteAll in haskell function. if you have make delete, you should know why we want you to make deleteAll     
 **USE TEMPLATE.hs**
 
