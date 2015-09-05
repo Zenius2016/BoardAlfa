@@ -20,17 +20,22 @@
 
 ## Help or Instruction
 
-1. Don't forget to add "import Data.List" to your *.hs file, or ghci/winghci (we recommend to put it in *.hs file)
-
-2. To check function type use ``:t``
-
-3. To show runtime and type system everytime you run something
+1. Don't forget to add "import Data.List" to your *.hs file, or ghci/winghci (we recommend to put it in *.hs file)      
+2. To check function type use ``:t``     
+3. To show runtime and type system everytime you run something      
 ``:set +s``
 ``:set +t``
 
-4. Use template.hs in firstAssignment to help tutors review your code
-
-5. We do not sort the function by difficulties. If you find a hard function to reimplement, **skip it**.
+4. Use template.hs in firstAssignment to help tutors review your code     
+5. We do not sort the function by difficulties. If you find a hard function to reimplement, **skip it**.     
+6. Always commit your work, whether or not it has finished          
+7. If you still trying to implement a function and don't want tutors to review it, please tell us. for example
+```
+--pembatas
+-- i haven't finished yet :(
+drop x (y:ys) = x + y
+--pembatas
+```
 
 ## 1.a List of Function to Reimplement
 
