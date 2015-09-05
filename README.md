@@ -7,7 +7,7 @@ So far the official repo for board announcement & issue tracking related to Zeni
 ## Github 101
 
 1. If you cant install github desktop then use github from browser      
-2. if you use github browser, read [this](https://help.github.com/articles/editing-files-in-your-repository/)     
+2. if you use github browser, read [this](https://help.github.com/categories/manipulating-files/)     
 3. if you use github desktop, find a way to clone a repo, commit and sync in [here](https://help.github.com/desktop/guides/contributing/)     
 
 ## Introduction to haskell for bocah-bocah
