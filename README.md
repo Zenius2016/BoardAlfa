@@ -13,21 +13,22 @@ So far the official repo for board announcement & issue tracking related to Zeni
 ## Introduction to haskell for bocah-bocah
 watch youtube video     
 1. [old-video](https://www.youtube.com/watch?v=RMRis91D7uQ&list=PL_P06naDb8bIjZyGbK0kMLxmtzQLYbFF4) (for part A alternative)     
-2. [2 September 2015 part A](https://www.youtube.com/watch?v=KPR15yaSnhE&list=PL_P06naDb8bIGp4BwzG2rtqJlVpem64Eq) (error video, still watchable though)     
-3. [2 September 2015 part B](https://youtu.be/RcRTreGowuc?list=PL_P06naDb8bLMEGenLPRcRaufmredmChi) (part B..... duhhhh)     
+2. [2 September 2015 part B](https://youtu.be/RcRTreGowuc?list=PL_P06naDb8bLMEGenLPRcRaufmredmChi) (part B..... duhhhh)     
+3. [Haskell.next](https://www.youtube.com/watch?v=KHiD2d97sAc&list=PL_P06naDb8bIrgjyPpkNzXQPszGrEJpJg)  
+
 ## Assignment     
 1. Installing things     
-2. [reimplement haskell function](https://github.com/Zenius2016/BoardAlfa/issues/7)     
+2. [reimplement haskell functions](https://github.com/Zenius2016/BoardAlfa/issues/7)     
 3. .....     
 4. .....     
 
 
 ##Rules        
 1. **USE ENGLISH EVERYWHERE**     
-2. If you want to ask something (error or bug in your code or installment) make issue     
-3. If you don't know about issue, find about github issue     
+2. If you want to ask something (error or bug in your code or installment) create an issue     
+3. If you don't know about issue, find about github's issue     
 
-## Preparing This Things
+## Preparing These Things
 things you need to install     
 1. [Github](https://desktop.github.com)     
 2. [Haskell](https://www.haskell.org/downloads)     
@@ -71,14 +72,14 @@ osx
 ### Text editor, we recommend atom     
 ![alt text][atom-logo]     
 Install atom [here](https://atom.io)     
-Open atom, then find way to install packages     
+Open atom, then find a way to install packages     
 ![alt text][atom-open]     
 List of things you need to install :     
 1. ide-haskell     
 2. language-haskell     
 3. autocomplete-haskell (not necessary)     
 4. themes (if you want to colorize your atom)     
-P.S I use one dark for UI theme and atom dark for syntax theme     
+P.S I'm using one dark for UI theme and atom dark for syntax theme     
 
 ### Atom alternative     
 In case you can't install atom use heat     
@@ -87,9 +88,9 @@ read the documentation for how to use heat
 
 -------
 
-### Playing with all tools
+### Playing with all the tools
 
-In general you will do something like this     
+In general you will do something like these     
 
 1. Editing haskell file (.hs) in atom     
 (don't forget put the .hs file in your repo)     
