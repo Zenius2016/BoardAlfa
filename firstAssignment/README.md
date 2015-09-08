@@ -1,4 +1,4 @@
-#Reimplement Haskell function
+#Reimplement Haskell functions  
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
 [haskell-wow]: ../images/first-assignment/haskell-wow.jpg "Logo Title Text 2"
 [suck]: ../images/first-assignment/suck.jpg "Logo Title Text 2"
@@ -7,15 +7,15 @@
 ##Prerequisite
 
 1. Install Haskell, Atom, Github
-2. Watch sabda tutorial video
+2. Watch sabda's tutorial videos
 
 ##Rules!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 1. **Don't use google to find how a haskell function works**
-2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), partern matching
-3. For 1.b you can use function that you have reimplemented in 1.a to reimplement 1.b
-4. DO NOT SEE OTHERS BOCAH WORKS, OR YOU WILL DIE || BECOME DUMB DUMB DUMB
-5. If you feel that you are to dumb dumb to do this assignment, don't worry     
+2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), pattern matching
+3. For 1.b you can use function(s) that you have reimplemented in 1.a to reimplement 1.b
+4. DO NOT SEE OTHERS BOCAH's WORKS, OR YOU WILL DIE || BECOME DUMB DUMB DUMB
+5. If you feel that you are too dumb dumb to do this assignment, don't worry     
 ![you-suck!!!!][suck]  
 
 ## Help or Instruction
@@ -28,8 +28,8 @@
 
 4. Use template.hs in firstAssignment to help tutors review your code     
 5. We do not sort the function by difficulties. If you find a hard function to reimplement, **skip it**.     
-6. Always commit your work, whether or not it has finished          
-7. If you still trying to implement a function and don't want tutors to review it, please tell us. for example
+6. Always commit your work, whether or not it has been finished          
+7. If you are still trying to implement a function and don't want tutors to review it, please tell us. for example
 ```
 --pembatas
 -- i haven't finished yet :(
@@ -52,12 +52,12 @@ you can use your other function from 1.a to solve this :
 nub, sort, minimum, maximum, inits, tails, union, intersect, group, splitAt, partition, replicate
 
 If you want to be teacher's pet
-reimplement subsequences, permutations
+reimplement subsequences and permutations
 
 **USE TEMPLATE.hs**
 
 
-## FINISH ?
+## FINISHED ?
 
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
 CONGRATULATION!!!! YOU ARE A HASKELL PROGRAMMER     
