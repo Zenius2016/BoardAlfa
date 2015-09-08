@@ -4,7 +4,7 @@
 [suck]: ../images/first-assignment/suck.jpg "Logo Title Text 2"
 
 
-##Prerequisite
+##Prerequisites
 
 1. Install Haskell, Atom, Github
 2. Watch sabda's tutorial videos
@@ -60,7 +60,7 @@ reimplement subsequences and permutations
 ## FINISHED ?
 
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
-CONGRATULATION!!!! YOU ARE A HASKELL PROGRAMMER     
+CONGRATULATIONS!!!! YOU ARE A HASKELL PROGRAMMER     
 ![alt text][haskell-wow]        
 :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::     
 P.S I will use a lot of :tada: emoticon 
