@@ -39,7 +39,7 @@ drop x (y:ys) = x + y
 
 ## 1.a List of Function to Reimplement
 
-null, take, drop, fst, snd, map, filter, delete, deleteAll, foldl, foldl1, zip, zipWith, nth, scanl, scanl1, elem, notElem, head, length, reverse, last, tail, init, max, min, concat, intersperse, intercalate, and, or, zip3, sum, product, words, lines, unlines, unwords, takeWhile, dropWhile, concatMap, all, any, insert, zipWith3
+null, take, drop, fst, snd, map, filter, delete, deleteAll, foldl, foldl1, zip, zipWith, nth, scanl, scanl1, elem, notElem, head, length, reverse, last, tail, init, max, min, concat, intersperse, intercalate, and, or, zip3, sum, product, unlines, unwords, takeWhile, dropWhile, concatMap, all, any, insert, zipWith3
 
 -- nth is (!!)     
 -- there is no deleteAll in haskell function. if you have make delete, you should know why we want you to make deleteAll     
@@ -49,7 +49,7 @@ null, take, drop, fst, snd, map, filter, delete, deleteAll, foldl, foldl1, zip, 
 
 you can use your other function from 1.a to solve this :
 
-nub, sort, minimum, maximum, inits, tails, union, intersect, group, splitAt, partition, replicate
+nub, sort, minimum, maximum, inits, tails, union, intersect, group, splitAt, partition, replicate, words, lines
 
 If you want to be teacher's pet
 reimplement subsequences and permutations
