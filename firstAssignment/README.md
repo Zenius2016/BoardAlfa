@@ -12,7 +12,7 @@
 ##Rules!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 1. **Don't use google to find how a haskell function works**
-2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), pattern matching
+2. For 1.a and 1.b do not use any other function except : pred, succ, ++, :, | (guard), pattern matching     
 3. For 1.b you can use function(s) that you have reimplemented in 1.a to reimplement 1.b
 4. DO NOT SEE OTHERS BOCAH's WORKS, OR YOU WILL DIE || BECOME DUMB DUMB DUMB
 5. If you feel that you are too dumb dumb to do this assignment, don't worry     
@@ -22,9 +22,29 @@
 
 1. Don't forget to add "import Data.List" to your *.hs file, or ghci/winghci (we recommend to put it in *.hs file)      
 2. To check function type use ``:t``     
+```
+Prelude> :t length
+length :: [a] -> Int
+```
 3. To show runtime and type system everytime you run something      
 ``:set +s``
 ``:set +t``
+```
+Prelude> length [1,2,3,4]
+4
+
+Prelude> :set +s
+Prelude> length [1,2,3,4]
+4
+(0.00 secs, 1547832 bytes)
+
+Prelude> :set +t
+Prelude> length [1,2,3,4]
+4
+it :: Int
+(0.00 secs, 1546160 bytes)
+
+```
 
 4. Use template.hs in firstAssignment to help tutors review your code     
 5. We do not sort the function by difficulties. If you find a hard function to reimplement, **skip it**.     
