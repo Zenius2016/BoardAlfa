@@ -66,7 +66,6 @@ pangkatTigainSemua (x:xs) = x*x*x : pangkatTigainSemua xs
 semuain f [] = []
 semuain f (x:xs) = f x : semuain f xs
 
-sum & produ
 
 -- kenapa intercalate nggak kebaca di haskell?
 
