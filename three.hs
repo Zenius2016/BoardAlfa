@@ -40,11 +40,20 @@ eulerNo1b = sum [3,6..999] + sum [5,10..999] - sum [15,30..999]
 pitagoras = [(x,y,z) | x <- [1..100], y <- [x..100], z <- [y..100], z^2 == x^2 + y^2]
 daduGanjil = [(a,b) | a <- [1..6], b <- [1..6], let c = a*b, odd c]
 
+words' st = iter [] [] $ reverse st
+  where iter res cur [] = cur:res
+        iter res cur (' ':[]) = cur:res
+        iter res cur (' ':xs) = iter (cur:res) [] xs
+        iter res cur (x:xs) = iter res (x:cur) xs
 
-
-
-
-
+-- words "asd jon" = iter [] [] "noj dsa"
+-- iter [] "n" "oj dsa"
+-- iter [] "on" "j dsa"
+-- iter [] "jon" " dsa"
+-- iter ["jon"] "" "dsa"
+-- iter ["jon"] "d" "sa"
+-- iter ["jon"] "dsa"
+-- iter ["dsa","jon"]
 
 
 
