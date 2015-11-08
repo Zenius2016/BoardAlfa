@@ -10,7 +10,6 @@ The folder contains:
 1. Diagnostic test soal -> Problem-set for diagnostic test     
 2. Diagnostic test - kunjaw -> Answer key     
 3. score -> How to calculate your score (especially raw score)     
-4. SAT book (if you are interested)     
 
 Class session (>2 hours) will be divided into 3 parts     
 1. Do the test by yourself (one hour).     
