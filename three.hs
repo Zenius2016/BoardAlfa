@@ -55,6 +55,9 @@ words' st = iter [] [] $ reverse st
 -- iter ["jon"] "dsa"
 -- iter ["dsa","jon"]
 
+lfibo = zipWith (+) lfibo $ tail lfibo
+pascal = iterate (\x -> zipWith (+) (0:x) (x::[0])) [1]
+
 
 
 
